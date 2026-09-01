@@ -51,14 +51,12 @@ Eu chamo Henrique Jochims Dettenborn, tenho 18 anos e sou natural do Rio Grande 
     src="https://github-readme-stats-two-omega-43.vercel.app/api?username=ikegame2019&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics"
   />
 
-  <a href="https://github.com/ikegame2019">
-    <img 
-      align="left" 
-      alt="Stack Python 100%" 
-      height="200" 
-      src="https://img.shields.io/badge/Stack-Python%20100%25-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000&color=3776AB" 
-    />
-  </a>
+  <img 
+    align="left" 
+    alt="Stack 100% Python" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&custom_title=Stack&hide_langs=html,css,javascript,typescript,java,c,cpp,php,ruby,go,rust,shell&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
+  />
 </p>
 
 <br clear="all"/>
