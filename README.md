@@ -6,18 +6,18 @@
 
 #
 
-Me chamo Henrique Jochims Dettenborn, tenho 18 anos e sou natural do Rio Grande do Sul. Atualmente curso Desenvolvimento de Sistemas no SENAI. Sou apaixonado por tecnologia, curioso sobre Hardware.
+Eu chamo Henrique Jochims Dettenborn, tenho 18 anos e sou natural do Rio Grande do Sul. Atualmente curso Desenvolvimento de Sistemas no SENAI. Sou apaixonado por tecnologia, curioso por Hardware
 
 #
 
-<img align="right" alt="Edgerunners" height="190px" src="./src/edgerunners.gif">
+<img align="right" alt="" height="190px" src="./src/edgerunners.gif">
 
-<h3 align="left">Entre em contato comigo!</h3>
+<h3 align="left">Connect with me!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:ikejd.2018@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/ikegame2019/)
 
-<h3 align="left">Minha pilha ~</h3>
+<h3 align="left">My Stack ~</h3>
 
 <img 
     align="left" 
@@ -40,7 +40,7 @@ Me chamo Henrique Jochims Dettenborn, tenho 18 anos e sou natural do Rio Grande 
 <br/>
 <br/>
 
-<h3 align="left">Estatísticas do GitHub</h3>
+<h3 align="left">GitHub Stats</h3>
 
 <p>
   <img 
@@ -53,9 +53,9 @@ Me chamo Henrique Jochims Dettenborn, tenho 18 anos e sou natural do Rio Grande 
 
   <img 
       align="left" 
-      alt="Top Langs" 
+      alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=ikegame2019&layout=compact&custom_title=Stack&hide=css,html,java&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
+      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=ikegame2019&layout=compact&custom_title=Stack&hide_langs=html,css,java&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
   />
 </p>
 
