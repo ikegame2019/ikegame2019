@@ -21,6 +21,15 @@ Me chamo Henrique Jochims Dettenborn, tenho 18 anos e sou natural do Rio Grande 
 
 <img 
     align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<img 
+    align="left" 
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 
@@ -30,11 +39,29 @@ Me chamo Henrique Jochims Dettenborn, tenho 18 anos e sou natural do Rio Grande 
 
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="Git" 
+    title="Git"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<img
+    align="left"
+    alt="Github"
+    title="GitHub"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+/>
+
+<img
+    align="left"
+    alt="Photoshop"
+    title="Photoshop"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-plain.svg"
 />
 <br/>
 <br/>
@@ -50,15 +77,14 @@ Me chamo Henrique Jochims Dettenborn, tenho 18 anos e sou natural do Rio Grande 
     src="https://github-readme-stats-two-omega-43.vercel.app/api?username=ikegame2019&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics"
   />
 
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=ikegame2019&layout=compact&custom_title=Stack&hide_langs=html,css,javascript,java&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=ikegame2019&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
   />
-</p>
 
-<br clear="all"/>
+</p>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ikegame2019/ikegame2019/output/github-contribution-grid-snake-dark.svg">
