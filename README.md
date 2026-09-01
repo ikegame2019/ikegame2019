@@ -54,7 +54,7 @@ Me chamo Henrique Jochims Dettenborn, tenho 18 anos e sou natural do Rio Grande 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=ikegame2019&layout=compact&custom_title=Stack&hide_langs=html,css&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
+    src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=ikegame2019&layout=compact&custom_title=Stack&hide_langs=html,css,javascript,java&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
   />
 </p>
 
